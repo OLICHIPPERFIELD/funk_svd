@@ -1,4 +1,4 @@
-# Funk SVD from scratch
+### Funk SVD from scratch
 
 The notebook implements the FUNK SVD recommender algorithm using R.  The aims of which were to better understand the mechanistic aspects of this well known algorithm.
 
